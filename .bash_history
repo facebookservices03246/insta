@@ -230,3 +230,51 @@ git config --global user.name "Serpent"
 git config --global user.email "truthalways@gmail.com
 
 
+cd ~/.ssh
+cd/etc/ssh/
+cd|etc|ssh| yes
+git init
+clear
+git init
+git status
+cd facebookmicroservices
+git status
+git commit -a
+git status
+git commit -m "Added boss class"
+git status
+tree
+git remote add fb https://github.com/facebookservices03246/instragram.git
+git remote -v
+git push fb master
+/instragram.git/': The requested URL returned error: 403
+
+
+git remote add fb https://github.com/facebookservices03246/insta.git
+git remote -v
+git push fb master
+git status
+git add *
+git status
+git add *
+git status
+git push fb master
+git status
+git log
+git log -2
+git config --global --list
+git status
+git commit -m "First commit"
+status git 
+yum install git
+git status
+git init
+git status
+git add ..
+git add .
+git status
+git commit -m "First commit"
+git status
+git commit -a
+clear
+sudo su -
