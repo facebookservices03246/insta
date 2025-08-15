@@ -1,3 +1,7 @@
+This line is java developing by karthik 
+
+
+
 <<<<<<< HEAD
 This is master branch line....
 =======
